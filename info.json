@@ -1,0 +1,15 @@
+{
+    "name": "moshine_no_route_to_nauvis_tweak",
+    "version": "1.0.0",
+    "title": "Moshine no route to Nauvis tweak",
+    "description": "When i play with Maraxis space route Moshine-Nauvis crosses Maraxis-Vulcanus, and i don't like how it looks so i created this mod",
+    "author": "Talandar99",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base",
+        "space-age",
+        "Moshine"
+    ],
+    "space_travel_required": true,
+    "spoiling_required": true
+}
